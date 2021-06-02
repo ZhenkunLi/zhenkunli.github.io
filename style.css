@@ -1,7 +1,15 @@
-p{
-    color: rgb(255, 0, 0);
+*{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 a{
     color: blue;
 }
+
+    h1{
+        background-color:aquamarine ;
+    }
+    .all{width = 800px;margin: 50px auto; border: 1px;overflow: hidden;}
+    .image{width: 250px; float: right;}
+    .image img{display: block; width: 100%;}
+    .text{float: left;}
+    ul>li{line-height: 4ch;}
