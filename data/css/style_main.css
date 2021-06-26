@@ -316,7 +316,7 @@
 
 .footer {
     width: 1000px;
-    height: 250px;
+    height: 200px;
     text-align: center;
 }
 
@@ -335,7 +335,7 @@
 
 
 .footer-webs li {
-    margin-top: 95px;
+    margin-top: 75px;
     float: left;
     /* height: 48px; */
     line-height: 30px;
@@ -353,11 +353,11 @@
 .footer-web-content {
     float: left;
     margin-left: 50px;
-    margin-top: 90px;
+    margin-top: 70px;
 }
 
 .footer-left {
-    margin-top: 90px;
+    margin-top: 70px;
     width: 200px;
     float: left;
 }
@@ -373,8 +373,8 @@
 }
 .footer-right{
     float: left;
-    width: 200px;
+    width: 150px;
 }
 .footer-right img {
-    width: 150px;
+    width: 130px;
 }
