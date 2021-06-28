@@ -10,7 +10,7 @@ Besides, I would like to share some stories in my past time. I hope these storie
 
 ## Future
 
-- Hopefully, I will pursue a M. Sc. in computer science in the future(maybe in 4-5 years if everything goes well in my PhD period). 
+- Hopefully, I will pursue a M. Sc. in computer science in the future. 
 
 ## Motto
 
