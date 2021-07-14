@@ -161,7 +161,28 @@
 .education-left .education-content {
     padding-left: 70px;
 }
-
+.my-info i{
+    padding: 10px 0;
+    text-decoration: none;
+    color: #777777;
+    font-size: 15px;
+    text-align:left;
+}
+.my-info span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    text-align:left;
+}
+.my-info a{
+    padding: 10px 0;
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    text-align:left;
+}
 
 /* Awards */
 
