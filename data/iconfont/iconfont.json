@@ -1,0 +1,44 @@
+{
+  "id": "2675102",
+  "name": "infos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15378418",
+      "name": "googlescholar",
+      "font_class": "googlescholar",
+      "unicode": "ebae",
+      "unicode_decimal": 60334
+    },
+    {
+      "icon_id": "19603153",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "836610",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "11993117",
+      "name": "orcid",
+      "font_class": "orcid",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "11993257",
+      "name": "researchgate",
+      "font_class": "researchgate",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    }
+  ]
+}

@@ -349,6 +349,9 @@
 .footer-webs img {
     width: 20px;
 }
+.footer-webs .iconfont{
+    font-size: 25px;
+}
 
 .footer-web-content {
     float: left;
