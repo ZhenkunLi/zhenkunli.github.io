@@ -1,3 +1,31 @@
+@import url("https://p.typekit.net/p.css?s=1&k=irf0ssm&ht=tk&f=10793.10794.10795.10796&a=14230688&app=typekit&e=css");
+
+@font-face {
+font-family:"nimbus-sans";
+src:url("https://use.typekit.net/af/da0c19/00000000000000000001518d/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/da0c19/00000000000000000001518d/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/da0c19/00000000000000000001518d/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"nimbus-sans";
+src:url("https://use.typekit.net/af/7ba522/00000000000000000001011f/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/7ba522/00000000000000000001011f/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/7ba522/00000000000000000001011f/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"nimbus-sans";
+src:url("https://use.typekit.net/af/360cf4/000000000000000000012544/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/360cf4/000000000000000000012544/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/360cf4/000000000000000000012544/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"nimbus-sans";
+src:url("https://use.typekit.net/af/a44ffc/000000000000000000010121/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/a44ffc/000000000000000000010121/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/a44ffc/000000000000000000010121/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-nimbus-sans { font-family: "nimbus-sans",sans-serif; }
+
 .page {
     width: 1000px;
     margin: 0 auto;
@@ -81,7 +109,7 @@
 .summary-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'nimbus-sans', Georgia, 'Times New Roman', Times, serif;
 }
 
 .summary-left p {
@@ -136,12 +164,13 @@
     height: 300px;
     /* background-color: orange; */
     float: right;
+    text-align: justify;
 }
 
 .education-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'nimbus-sans', Georgia, 'Times New Roman', Times, serif;
 }
 
 .education-left p {
@@ -211,7 +240,7 @@
 .awards-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'nimbus-sans',Georgia, 'Times New Roman', Times, serif;
 }
 
 .awards-left li {
@@ -251,7 +280,7 @@
 .professional-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'nimbus-sans',Georgia, 'Times New Roman', Times, serif;
 }
 
 .professional-left li {
@@ -302,7 +331,7 @@
 .hobbies-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'nimbus-sans',Georgia, 'Times New Roman', Times, serif;
 }
 
 .hobbies-left li {
@@ -378,7 +407,14 @@
     float: left;
     margin-left: 50px;
     margin-top: 70px;
+    font-family: 'nimbus-sans',Georgia, 'Times New Roman', Times, serif;
 }
+.footer-web-content a,.footer-web-content p {
+    font-size: 17px;
+
+}
+
+
 
 .footer-left {
     margin-top: 70px;
@@ -402,3 +438,5 @@
 .footer-right img {
     width: 130px;
 }
+
+
