@@ -37,11 +37,13 @@ font-display:auto;font-style:italic;font-weight:700;
     height: 90px;
     padding-top: 10px;
 }
-
-.head-left {
-    float: left
+.head-left{
+    padding-left: 20px;
 }
+.head-left img{
+    height: 60px;
 
+}
 .head-right {
     float: right;
     padding-right: 10px
