@@ -218,7 +218,7 @@ font-display:auto;font-style:italic;font-weight:700;
 /* Awards */
 
 .awards {
-    margin-top: 30px;
+    margin-top: 90px;
     width: 1000px;
     height: 330px;
     /* background-color: orange; */
@@ -258,7 +258,7 @@ font-display:auto;font-style:italic;font-weight:700;
 /* Professional */
 
 .professional {
-    margin-top: 30px;
+    margin-top: 20px;
     width: 1000px;
     height: 460px;
     /* background-color: orange; */
