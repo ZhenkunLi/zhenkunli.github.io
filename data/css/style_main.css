@@ -91,7 +91,7 @@ font-display:auto;font-style:italic;font-weight:700;
 
 .middle-content {
     width: 1000px;
-    height: 1600px;
+    height: 1550px;
 }
 
 .summary {
@@ -218,7 +218,7 @@ font-display:auto;font-style:italic;font-weight:700;
 /* Awards */
 
 .awards {
-    margin-top: 90px;
+    margin-top: 30px;
     width: 1000px;
     height: 330px;
     /* background-color: orange; */
@@ -325,7 +325,6 @@ font-display:auto;font-style:italic;font-weight:700;
 
 .hobbies-right {
     width: 250px;
-    height: 300px;
     /* background-color: orange; */
     float: right;
 }
@@ -369,7 +368,38 @@ font-display:auto;font-style:italic;font-weight:700;
 .footer {
     width: 1000px;
     height: 200px;
+    /* background-color: black; */
+    overflow: hidden;
     text-align: center;
+}
+
+.footer-left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    /* background-color:#bfa; */
+}
+
+.footer-left img {
+    margin-top: 10px;
+}
+
+.footer-middle {
+    width: 650px;
+    height: 200px;
+    float: left;
+    /* background-color:rgb(255, 0, 0); */
+}
+
+.footer-right{
+    float: left;
+    width: 150px;
+    height: 200px;
+    /* background-color:rgb(251, 255, 0); */
+}
+.footer-right img {
+    margin-top: 9px;
+    width: 130px;
 }
 
 .footer a {
@@ -387,20 +417,13 @@ font-display:auto;font-style:italic;font-weight:700;
 
 
 .footer-webs li {
-    margin-top: 75px;
+    display: block;
+    margin-top: 105px;
     float: left;
-    /* height: 48px; */
     line-height: 30px;
+    padding: 0 15px;
 }
 
-.footer-webs ul li {
-    padding: 15px;
-    line-height: 30px;
-}
-
-.footer-webs img {
-    width: 20px;
-}
 .footer-webs .iconfont{
     font-size: 25px;
 }
@@ -408,37 +431,10 @@ font-display:auto;font-style:italic;font-weight:700;
 .footer-web-content {
     float: left;
     margin-left: 50px;
-    margin-top: 70px;
+    margin-top: 85px;
     font-family: 'nimbus-sans',Georgia, 'Times New Roman', Times, serif;
 }
 .footer-web-content a,.footer-web-content p {
     font-size: 17px;
 
 }
-
-
-
-.footer-left {
-    margin-top: 70px;
-    width: 200px;
-    float: left;
-}
-
-.footer-left img {
-    margin-top: 10px;
-}
-
-.footer-middle {
-    width: 600px;
-    height: 30px;
-    float: left;
-}
-.footer-right{
-    float: left;
-    width: 150px;
-}
-.footer-right img {
-    width: 130px;
-}
-
-
