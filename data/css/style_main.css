@@ -111,7 +111,7 @@ font-display:auto;font-style:italic;font-weight:700;
 .summary-left h2 {
     font-size: 30px;
     padding-bottom: 20px;
-    font-family: 'nimbus-sans', Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .summary-left p {
