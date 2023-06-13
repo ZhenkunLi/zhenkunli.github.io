@@ -1,0 +1,13 @@
+_site/*
+*_cache/
+*_files/
+
+/.quarto/
+.Rproj.user
+
+/unbelievable/.quarto/
+/prato/.quarto/
+
+/_*.local
+
+/.luarc.json

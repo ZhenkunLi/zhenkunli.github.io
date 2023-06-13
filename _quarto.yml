@@ -1,0 +1,60 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!/unbelievable/"
+    - "!/prato/"
+
+website:
+  title: "Zhenkun Li"
+  site-url: "https://zhenkunli.com"
+  open-graph: true
+  twitter-card:
+    creator: "@zhenkunli"
+  navbar:
+    background: "#234460"
+    left:
+      - href: about/index.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      # - href: software/index.qmd
+      #   text: Software
+      # - href: seminars/index.qmd
+      #   text: Seminars
+      # - href: teaching/index.qmd
+      #   text: Teaching
+      - href: research-team/index.qmd
+        text: Team
+      - href: downloads/index.qmd
+        text: Downloads
+  page-footer:
+    # left: "© Zhenkun Li <a rel='me' href='https://aus.social/@robjhyndman'></a>"
+    left: "© Zhenkun Li (updated on 13 June 2023)"
+    # right:
+    #   - text: Subscribe
+    #     href: /subscribe.html
+    #   - icon: rss
+    #     href: https://zhenkunli.com/index.xml
+    #   - icon: github
+    #     href: https://github.com/zhenkunli
+    #   - icon: mastodon
+    #     href: https://aus.social/@zhenkunli
+    #   - icon: twitter
+    #     href: https://twitter.com/zhenkunli
+    background: "#234460"
+
+date-format: "D MMMM YYYY"
+freeze: true
+
+format:
+  html:
+    theme: tango
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
