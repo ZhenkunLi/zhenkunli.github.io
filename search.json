@@ -18,7 +18,7 @@
     "href": "about/index.html",
     "title": "About me",
     "section": "",
-    "text": "The following bio and this photo may be used in media releases without further permission.\n\nZhenkun Li is a Doctoral Researcher at the Department of Civil Engineering at Aalto University, and an elected Fellow of both the Australian Academy of Science and the Academy of Social Sciences in Australia. He is the author of over 200 research papers and 5 books in statistical science. In 2007, he received the Moran medal from the Australian Academy of Science for his contributions to statistical research, especially in the area of statistical forecasting. In 2021, he received the Pitman medal from the Statistical Society of Australia. For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\nSemantic Scholar\n\n\n\n\n\nORCID\n\n\nScopus\n\n\narXiv\n\n\n\n\n\nRePEc\n\n\nGitHub\n\n\nWikipedia"
+    "text": "If you are interested in structural health monitoring (SHM), vehicle-bridge interaction (VBI), and machine learning, and intend to cooperate with me, please contact me at zhenkun.li@aalto.fi.\n\nZhenkun Li is a Doctoral Researcher at the Department of Civil Engineering at Aalto University. He received his M.Eng. in School of Civil Engineering from Dalian University of Technology, China. His research interests lie in the Structural Health Monitoring (SHM) for civil infrastructure systems, damage detection, finite element analysis, deep learning and computer vision.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\n\n\n\n\nORCID\n\n\nScopus\n\n\n\n\n\n\n\nGitHub\n\n\nLinkedIn"
   },
   {
     "objectID": "about/index.html#bio",
@@ -144,14 +144,14 @@
     "href": "about/index.html#education",
     "title": "About me",
     "section": "Education",
-    "text": "Education\n\n09.2017-06.2020, M.Eng.,Dalian University of Technology (DUT).\n09.2013-06.2017, B. Eng., Qingdao University of Technology (QUT)."
+    "text": "Education\n\n10.2021-present, Doctoral Candidate, Aalto University.\n09.2017-06.2020, M.Eng., Dalian University of Technology (DUT).\n09.2013-06.2017, B. Eng., Qingdao University of Technology (QUT)."
   },
   {
     "objectID": "about/index.html#short-summary",
     "href": "about/index.html#short-summary",
     "title": "About me",
     "section": "",
-    "text": "The following bio and this photo may be used in media releases without further permission.\n\nZhenkun Li is a Doctoral Researcher at the Department of Civil Engineering at Aalto University, and an elected Fellow of both the Australian Academy of Science and the Academy of Social Sciences in Australia. He is the author of over 200 research papers and 5 books in statistical science. In 2007, he received the Moran medal from the Australian Academy of Science for his contributions to statistical research, especially in the area of statistical forecasting. In 2021, he received the Pitman medal from the Statistical Society of Australia. For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\nSemantic Scholar\n\n\n\n\n\nORCID\n\n\nScopus\n\n\narXiv\n\n\n\n\n\nRePEc\n\n\nGitHub\n\n\nWikipedia"
+    "text": "If you are interested in structural health monitoring (SHM), vehicle-bridge interaction (VBI), and machine learning, and intend to cooperate with me, please contact me at zhenkun.li@aalto.fi.\n\nZhenkun Li is a Doctoral Researcher at the Department of Civil Engineering at Aalto University. He received his M.Eng. in School of Civil Engineering from Dalian University of Technology, China. His research interests lie in the Structural Health Monitoring (SHM) for civil infrastructure systems, damage detection, finite element analysis, deep learning and computer vision.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\n\n\n\n\nORCID\n\n\nScopus\n\n\n\n\n\n\n\nGitHub\n\n\nLinkedIn"
   },
   {
     "objectID": "publications/index.html",
@@ -165,7 +165,7 @@
     "href": "research-team/index.html",
     "title": "Research team",
     "section": "",
-    "text": "Xiaoqian Wang"
+    "text": "Only me at this moment."
   },
   {
     "objectID": "research-team/index.html#current-research-fellows",
@@ -277,7 +277,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Curriculum Vitae\n\n\nGoogle Scholar\n\n\nSemantic Scholar\n\n\n\n\n\nORCID\n\n\nScopus\n\n\narXiv\n\n\n\n\n\nRePEc\n\n\nGitHub\n\n\nWikipedia"
+    "text": "Structural health monitoring(SHM) using machine learning and computer vision techniques\nDamage identification\nBayesian theory\nStructural vibration performance analysis\nFinite Element Analysis for Complex Structural Problems"
   },
   {
     "objectID": "research/index.html#research-activities",
@@ -333,14 +333,14 @@
     "href": "downloads/index.html",
     "title": "Downloads",
     "section": "",
-    "text": "Curriculum Vitae\n\n\nGoogle Scholar\n\n\nSemantic Scholar\n\n\n\n\n\nORCID\n\n\nScopus\n\n\narXiv\n\n\n\n\n\nRePEc\n\n\nGitHub\n\n\nWikipedia"
+    "text": "In the near future, I will upload data for my research here, including experimental data, simulations, and codes for calculations."
   },
   {
     "objectID": "downloads/index.html#downloads",
     "href": "downloads/index.html#downloads",
     "title": "Downloads",
     "section": "",
-    "text": "Curriculum Vitae\n\n\nGoogle Scholar\n\n\nSemantic Scholar\n\n\n\n\n\nORCID\n\n\nScopus\n\n\narXiv\n\n\n\n\n\nRePEc\n\n\nGitHub\n\n\nWikipedia"
+    "text": "In the near future, I will upload data for my research here, including experimental data, simulations, and codes for calculations."
   },
   {
     "objectID": "downloads/index.html#address",
@@ -375,7 +375,7 @@
     "href": "downloads/index.html#in-the-news",
     "title": "Downloads",
     "section": "In the news",
-    "text": "In the news\nHere is a list of recent news articles about me."
+    "text": "In the news\nI will upload data for my research here, including experimental data, simulations, and codes for calculations."
   },
   {
     "objectID": "downloads/index.html#other-interests",
@@ -383,5 +383,82 @@
     "title": "Downloads",
     "section": "Other interests",
     "text": "Other interests\n\nBasketball.\nPhotography: beginning from undergraduate period.\nRunning."
+  },
+  {
+    "objectID": "about/index.html#professional-competence-certificates",
+    "href": "about/index.html#professional-competence-certificates",
+    "title": "About me",
+    "section": "Professional Competence & Certificates",
+    "text": "Professional Competence & Certificates\n\nLanguage: English, Chinese (mother tongue).\nData Analysis: machine learning|deep learning|computer vision|signal processing\nNational Computer Rank Examination Certificate of Level 2 (C language).\nNational Computer Rank Examination Certificate of Level 3 (Internet technology).\nNational 1st Class Certified Structural Engineer.\nNational Certificate of BIM Skill Proficiency Test Level 1.\nMain Software:\nComputing: MATLAB, Octave, Julia, R\nProgramming Languages: Python(Pytorch), Java, JavaScript(beginner).\nNumerical simulation: ANSYS, Abaqus, SAP2000, YJK, PKPM.\nModeling: SOLIDWORKS, Revit.\nText processing: MS Office, LaTeX, HTML+CSS.\nFigures: OriginLab, Photoshop, Illustrator, CorelDRAW, Auto CAD.\nVideo editing: Corel VideoStudio, Premiere, After Effects."
+  },
+  {
+    "objectID": "about/index.html#hobbies",
+    "href": "about/index.html#hobbies",
+    "title": "About me",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nBasketball.\nPhotography: beginning from undergraduate period.\nRunning."
+  },
+  {
+    "objectID": "research-team/index.html#current-supervisor",
+    "href": "research-team/index.html#current-supervisor",
+    "title": "Research team",
+    "section": "",
+    "text": "Weiwei Lin"
+  },
+  {
+    "objectID": "research-team/index.html#current-members",
+    "href": "research-team/index.html#current-members",
+    "title": "Research team",
+    "section": "",
+    "text": "Only me at this moment."
+  },
+  {
+    "objectID": "downloads/index.html#data-to-download",
+    "href": "downloads/index.html#data-to-download",
+    "title": "Downloads",
+    "section": "Data to download",
+    "text": "Data to download\nHere is a list of recent news articles about me."
+  },
+  {
+    "objectID": "downloads/index.html#experimental-data",
+    "href": "downloads/index.html#experimental-data",
+    "title": "Downloads",
+    "section": "Experimental data",
+    "text": "Experimental data"
+  },
+  {
+    "objectID": "downloads/index.html#matlab-codes",
+    "href": "downloads/index.html#matlab-codes",
+    "title": "Downloads",
+    "section": "MATLAB codes",
+    "text": "MATLAB codes"
+  },
+  {
+    "objectID": "downloads/index.html#python-codes",
+    "href": "downloads/index.html#python-codes",
+    "title": "Downloads",
+    "section": "Python codes",
+    "text": "Python codes"
+  },
+  {
+    "objectID": "downloads/index.html#r-codes",
+    "href": "downloads/index.html#r-codes",
+    "title": "Downloads",
+    "section": "R codes",
+    "text": "R codes"
+  },
+  {
+    "objectID": "research/index.html#research-interest",
+    "href": "research/index.html#research-interest",
+    "title": "Research",
+    "section": "",
+    "text": "Structural health monitoring(SHM) using machine learning and computer vision techniques\nDamage identification\nBayesian theory\nStructural vibration performance analysis\nFinite Element Analysis for Complex Structural Problems"
+  },
+  {
+    "objectID": "research/index.html#projects",
+    "href": "research/index.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nNational Natural Science Foundation of China (NSFC), grant number 51878118, Structural damage identification and experiment study of slab track based on adding virtual physical parameters, 01/2019-12/2022, 680,000 RMB, ongoing, as main student investigator.\nHealth monitoring of the Xinghai Bridge’s suspension cable, 07-09/2018, as investigator.\nNumerical simulation of damage identification of Dongying large-span bridge, 09-12/2018.\nDamage detection of the plane frame structure, 03-07/2018.\nStudy on mechanical properties of SMA-rolling disc spring isolation bearing, 06/2014-09/2015, 3000RMB,as leader.\nNational Mathematical modeling competition, Positional calculation technology based on the sun shadow, 07/2015."
   }
 ]

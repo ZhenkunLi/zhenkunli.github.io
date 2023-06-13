@@ -2,16 +2,14 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/condnormts.html",
-      "/publications/covid2020.html",
-      "/publications/hfreview.html",
-      "/publications/causality.html",
-      "/publications/ctprob.html",
-      "/publications/lee_carter.html",
-      "/publications/oddnet.html",
-      "/publications/covid2022.html",
-      "/publications/aihw2012.html",
-      "/publications/wand-and-jones-kernel-smoothing/index.html"
+      "/publications/008_materials-16-02624.html",
+      "/publications/007_materials-16-01872.html",
+      "/publications/006_Drive-by.html",
+      "/publications/005_Real-time.html",
+      "/publications/004_Structural.html",
+      "/publications/003_Local.html",
+      "/publications/002_Estimation.html",
+      "/publications/001_Optimal.html"
     ]
   }
 ]
