@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zhenkun Li",
     "section": "",
-    "text": "Zhenkun Li Doctoral researcher Department of Civil Engineering Aalto University, Finland. Research interest: Strucural Health Monitoring (SHM), Damage detection, machine learning."
+    "text": "Doctoral researcher Department of Civil Engineering Aalto University, Finland."
   },
   {
     "objectID": "news.html",
@@ -460,5 +460,61 @@
     "title": "Research",
     "section": "Projects",
     "text": "Projects\n\nNational Natural Science Foundation of China (NSFC), grant number 51878118, Structural damage identification and experiment study of slab track based on adding virtual physical parameters, 01/2019-12/2022, 680,000 RMB, ongoing, as main student investigator.\nHealth monitoring of the Xinghai Bridge’s suspension cable, 07-09/2018, as investigator.\nNumerical simulation of damage identification of Dongying large-span bridge, 09-12/2018.\nDamage detection of the plane frame structure, 03-07/2018.\nStudy on mechanical properties of SMA-rolling disc spring isolation bearing, 06/2014-09/2015, 3000RMB,as leader.\nNational Mathematical modeling competition, Positional calculation technology based on the sun shadow, 07/2015."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Zhenkun Li",
+    "section": "News",
+    "text": "News"
+  },
+  {
+    "objectID": "index.html#news-and-updates",
+    "href": "index.html#news-and-updates",
+    "title": "Zhenkun Li",
+    "section": "News and updates",
+    "text": "News and updates\n June 8, 2023.\nMy paper “Indirect damage identification for bridges using passing and temporarily parked vehicles” co-authored with Yifu Lan and Weiwei Lin is accepted by Engineering Structures.\n April 6, 2023.\nZhenkun Li was awarded an incentive grant in Fabian and Jaakko Ahvenainen Foundation grants awarded for the year 2022."
+  },
+  {
+    "objectID": "index.html#zhenkun-li",
+    "href": "index.html#zhenkun-li",
+    "title": "Zhenkun Li",
+    "section": "",
+    "text": "Doctoral researcher Department of Civil Engineering Aalto University, Finland."
+  },
+  {
+    "objectID": "index.html#n",
+    "href": "index.html#n",
+    "title": "Zhenkun Li",
+    "section": "N",
+    "text": "N"
+  },
+  {
+    "objectID": "index.html#news-and-updates-1",
+    "href": "index.html#news-and-updates-1",
+    "title": "Zhenkun Li",
+    "section": "News and updates",
+    "text": "News and updates"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zhenkun Li",
+    "section": "Research Interests",
+    "text": "Research Interests\n Structural Health Monitoring (SHM)\nDamage detection, Model updating, modal identification.\n Vehicle-bridge Interaction (VBI)\nVehicle scanning method, Vehicular parameter identification, Road roughness estimation.\n Machine Learning\nProbabilistic methods, Gaussian processes, Deep learning, Computer vision, Transfer learning, Physics-informed neural networks (PINNs)."
+  },
+  {
+    "objectID": "index.html#research-purpose",
+    "href": "index.html#research-purpose",
+    "title": "Zhenkun Li",
+    "section": "Research purpose",
+    "text": "Research purpose\n\n\n\n\n\nOur infrastructures especially the bridges were built in the last century and have been"
+  },
+  {
+    "objectID": "index.html#research-purposes",
+    "href": "index.html#research-purposes",
+    "title": "Zhenkun Li",
+    "section": "Research purposes",
+    "text": "Research purposes\n\n\n\n\n\nOur infrastructures especially bridges were built in the last century and have been serving for more than half a century (50-100 years). Many of them are prone to deterioration and exposed to natural hazards. My research aims to monitor the health conditions of infrastructures via system identification, uncertainty quantification, and interaction between bridges and vehicles, and the state-of-the-art Artificial Intelligence (AI) tools will be included to automate the process. If you are interested in my background and intends to cooperate with me, please contact me at zhenkun.li@aalto.fi."
   }
 ]
