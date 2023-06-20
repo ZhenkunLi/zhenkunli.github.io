@@ -501,7 +501,7 @@
     "href": "index.html#research-interests",
     "title": "Zhenkun Li",
     "section": "Research Interests",
-    "text": "Research Interests\n Structural Health Monitoring (SHM)\nDamage detection, Model updating, modal identification.\n Vehicle-bridge Interaction (VBI)\nVehicle scanning method, Weigh in motion (WIM), Vehicular parameter identification, Road roughness estimation.\n Machine Learning\nProbabilistic methods, Gaussian processes, Deep learning, Computer vision, Transfer learning, Physics-informed neural networks (PINNs)."
+    "text": "Research Interests\n Structural Health Monitoring (SHM)\nDamage detection, Model updating, modal identification.\n Vehicle-bridge Interaction (VBI)\nVehicle scanning method, Weigh-in-motion (WIM), Vehicular parameter identification, Road roughness estimation.\n Machine Learning\nBayesian statistics, Gaussian processes, Deep learning, Computer vision, Transfer learning, Physics-informed neural networks (PINNs)."
   },
   {
     "objectID": "index.html#research-purpose",
