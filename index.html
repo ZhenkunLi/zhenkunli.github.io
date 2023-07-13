@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -54,7 +54,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather" rel="stylesheet">
@@ -86,15 +87,15 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="">
-<meta property="og:description" content="Doctoral researcher Department of Civil Engineering Aalto University, Finland.">
+<meta property="og:description" content="">
 <meta property="og:site-name" content="Zhenkun Li">
 <meta name="twitter:title" content="">
-<meta name="twitter:description" content="Doctoral researcher Department of Civil Engineering Aalto University, Finland.">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@zhenkunli">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -105,33 +106,35 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Zhenkun Li</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about/index.html">
+    <a class="nav-link" href="./about/index.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research/index.html">
+    <a class="nav-link" href="./research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications/index.html">
+    <a class="nav-link" href="./publications/index.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research-team/index.html">
+    <a class="nav-link" href="./research-team/index.html" rel="" target="">
  <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./downloads/index.html">
+    <a class="nav-link" href="./downloads/index.html" rel="" target="">
  <span class="menu-text">Downloads</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -140,77 +143,87 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#zhenkun-li" id="toc-zhenkun-li" class="nav-link active" data-scroll-target="#zhenkun-li">Zhenkun Li</a></li>
+  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research Interests</a></li>
+  <li><a href="#news-and-updates" id="toc-news-and-updates" class="nav-link" data-scroll-target="#news-and-updates">News and updates</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-jolla">
   <img src="img/zhenkun.jpg" class="about-image
   round " style="height: 15em; width: 15em;">
  <main class="content" id="quarto-document-content">
+
 <section id="zhenkun-li" class="level2 about-link-text">
 <h2 data-anchor-id="zhenkun-li">Zhenkun Li</h2>
 <!-- **Zhenkun Li**<br> -->
-<p>Doctoral researcher<br> <a href="https://www.aalto.fi/en/department-of-civil-engineering">Department of Civil Engineering</a><br> <a href="https://www.aalto.fi/en">Aalto University</a>, Finland.<br> <!-- Research interest: Strucural Health Monitoring (SHM), Damage detection, machine --> <!-- learning. --></p>
+<p>Researcher<br> <a href="https://www.aalto.fi/en/department-of-civil-engineering">Department of Civil Engineering</a><br> <a href="https://www.aalto.fi/en">Aalto University</a>, Finland.<br> <!-- Research interest: Strucural Health Monitoring (SHM), Damage detection, machine --> <!-- learning. --></p>
 </section>
 <section id="research-interests" class="level2">
 <h2 data-anchor-id="research-interests">Research Interests</h2>
 <p><i class="fa-solid fa-bridge"></i> <strong>Structural Health Monitoring (SHM)</strong></p>
 <p>Damage detection, Model updating, modal identification.</p>
 <p><i class="fa-solid fa-truck"></i> <strong>Vehicle-bridge Interaction (VBI)</strong></p>
-<p>Vehicle scanning method, Vehicular parameter identification, Road roughness estimation.</p>
+<p>Vehicle scanning method, Weigh-in-motion (WIM), Vehicular parameter identification, Road roughness estimation.</p>
 <p><i class="fa-solid fa-computer"></i> <strong>Machine Learning</strong></p>
-<p>Probabilistic methods, Gaussian processes, Deep learning, Computer vision, Transfer learning, Physics-informed neural networks (PINNs).</p>
+<p>Bayesian statistics, Gaussian processes, Deep learning, Computer vision, Transfer learning, Physics-informed neural networks (PINNs).</p>
 </section>
 <section id="news-and-updates" class="level2">
 <h2 data-anchor-id="news-and-updates">News and updates</h2>
-<p><i class="fa-solid fa-calendar-days"></i> June 15, 2023. My paper <a href="">“Bridge frequency scanning using the contact-point response of an instrumented 3D vehicle: theory and numerical simulation”</a> co-authored with Weiwei Lin and Youqi Zhang is accepted by <a href="https://www.hindawi.com/journals/schm/">Structural Control and Health Monitoring</a>.</p>
-<p><i class="fa-solid fa-calendar-days"></i> June 8, 2023. My paper <a href="">“Indirect damage identification for bridges using passing and temporarily parked vehicles”</a> co-authored with Yifu Lan and Weiwei Lin is accepted by <a href="https://www.sciencedirect.com/journal/engineering-structures">Engineering Structures</a>.</p>
+<p><i class="fa-solid fa-calendar-days"></i> July 2-6, 2023. I am attending <a href="https://ialcce2023.org/">IALCCE 2023</a> in Milano, Italy. More pictures can be found <a href="./gallery.html">HERE</a>. Thanks, all friends, for the interesting topics and nice dinner.</p>
+<p><i class="fa-solid fa-calendar-days"></i> June 15, 2023. My paper <a href="https://www.hindawi.com/journals/schm/2023/3924349/">“Bridge Frequency Scanning Using the Contact-Point Response of an Instrumented 3D Vehicle: Theory and Numerical Simulation”</a> co-authored with Weiwei Lin and Youqi Zhang is accepted by <a href="https://www.hindawi.com/journals/schm/">Structural Control and Health Monitoring</a>.</p>
+<p><i class="fa-solid fa-calendar-days"></i> June 8, 2023. My paper <a href="https://www.sciencedirect.com/science/article/pii/S014102962300874X">“Indirect damage identification for bridges using passing and temporarily parked vehicles”</a> co-authored with Yifu Lan and Weiwei Lin is accepted by <a href="https://www.sciencedirect.com/journal/engineering-structures">Engineering Structures</a>.</p>
 <p><i class="fa-solid fa-calendar-days"></i> April 6, 2023. Zhenkun Li was awarded an incentive grant in <a href="https://www.aalto.fi/en/news/fabian-and-jaakko-ahvenainen-foundation-grants-awarded-for-the-year-2022?check_logged_in=1">Fabian and Jaakko Ahvenainen Foundation grants awarded for the year 2022</a>.</p>
 <!-- jolla -->
 <!-- trestles -->
 <!-- solana -->
 <!-- marquee -->
 <!-- broadside -->
-</section>
-<section id="research-purposes" class="level2">
-<h2 data-anchor-id="research-purposes">Research purposes</h2>
-<table>
-<tbody><tr>
-<td valign="top" halign="left" width="67%">
-<!-- ``` -->
-<!-- ``` -->
-<p>Our infrastructures, especially bridges, were built in the last century and have been serving for more than half a century (50-100 years). Many of them are prone to deterioration and exposed to natural hazards. My research aims to monitor the health conditions of infrastructures via system identification, uncertainty quantification, and interaction between bridges and vehicles, and state-of-the-art Artificial Intelligence (AI) tools will be included to automate the process. If you are interested in my background and intend to cooperate with me, please contact me at <strong>zhenkun.li@aalto.fi</strong>.</p>
-<!-- [![](/img/tidyverts.png)](https://tidyverts.org) -->
-</td>
-<td valign="top">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ycCls-2e-84rqSuMQ5vzXHs-p664B8KFRWpvY1BW6BY"></script>
-</td>
-</tr>
-</tbody></table>
+<!-- ## Research purposes -->
+<!-- <table> -->
+<!-- <tr><td valign="top" halign="left" width="67%"> -->
+<!-- <!-- ``` -->
+<!-- <!-- ``` -->
+<!-- Our infrastructures, especially bridges, were built in the last century and have been serving for more than half a century (50-100 years). Many of them are prone to deterioration and exposed to natural hazards. My research aims to monitor the health conditions of infrastructures via system identification, uncertainty quantification, and interaction between bridges and vehicles, and state-of-the-art Artificial Intelligence (AI) tools will be included to automate the process. If you are interested in my background and intend to cooperate with me, please contact me at **zhenkun.li@aalto.fi**. -->
+<!-- <!-- [![](/img/tidyverts.png)](https://tidyverts.org) -->
+<!-- </td><td valign="top"> -->
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ycCls-2e-84rqSuMQ5vzXHs-p664B8KFRWpvY1BW6BY"></script></td> -->
+<!-- </tr> -->
+<!-- </table> -->
 
 
 </section>
 </main> 
   <hr class="about-sep">
    <div class="about-links">
-  <a href="https://www.linkedin.com/in/zhenkun-li/" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://twitter.com/LiZhenkunn" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">twitter</span>
-  </a>
-  <a href="https://scholar.google.com.hk/citations?user=PrGJZLIAAAAJ&amp;hl=en" class="about-link">
+  <a href="https://scholar.google.com.hk/citations?user=PrGJZLIAAAAJ&amp;hl=en" class="about-link" rel="" target="">
     <i class="bi bi-google"></i>
      <span class="about-link-text">Google Scholar</span>
   </a>
-  <a href="https://github.com/ZhenkunLi" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">github</span>
+  <a href="https://www.researchgate.net/profile/Zhenkun-Li-3" class="about-link" rel="" target="">
+    <i class="bi bi-r-square-fill"></i>
+     <span class="about-link-text">ResearchGate</span>
   </a>
-  <a href="mailto:zhenkun.li@aalto.fi" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">mail</span>
+  <a href="https://www.linkedin.com/in/zhenkun-li/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://twitter.com/LiZhenkunn" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://github.com/ZhenkunLi" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="mailto:zhenkun.li@aalto.fi" class="about-link" rel="" target="">
+    <i class="bi bi-envelope-fill"></i>
+     <span class="about-link-text">Mail</span>
   </a>
 </div>
 </div>
@@ -235,9 +248,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -302,6 +329,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -345,6 +458,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© Zhenkun Li (updated on 13 June 2023)</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 
