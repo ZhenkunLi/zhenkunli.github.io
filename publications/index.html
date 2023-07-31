@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -61,7 +61,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -74,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-format','listing-sidebar','listing-author-title','listing-title','listing-author','listing-categories','listing-details','listing-date','listing-file','listing-online','listing-doi','listing-path','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-date-format','listing-freeze','listing-format','listing-language','listing-sidebar','listing-author-title','listing-title','listing-author','listing-categories','listing-details','listing-date','listing-file','listing-online','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-details"],
     };
@@ -138,10 +139,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../styles.css">
 <link rel="alternate" type="application/rss+xml" title="Publications by Zhenkun Li" href="index.xml"><meta property="og:title" content="Zhenkun Li - Publications">
-<meta property="og:description" content="Curriculum Vitae &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; Google Scholar">
+<meta property="og:description" content="">
 <meta property="og:site-name" content="Zhenkun Li">
 <meta name="twitter:title" content="Zhenkun Li - Publications">
-<meta name="twitter:description" content="Curriculum Vitae &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; Google Scholar">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@zhenkunli">
 <meta name="twitter:card" content="summary">
 </head>
@@ -157,33 +158,35 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Zhenkun Li</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about/index.html">
+    <a class="nav-link" href="../about/index.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html">
+    <a class="nav-link" href="../research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../publications/index.html" aria-current="page">
+    <a class="nav-link active" href="../publications/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research-team/index.html">
+    <a class="nav-link" href="../research-team/index.html" rel="" target="">
  <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../downloads/index.html">
+    <a class="nav-link" href="../downloads/index.html" rel="" target="">
  <span class="menu-text">Downloads</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -243,7 +246,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <ol class="list" reversed="">
-    <li data-index="0" data-categories="Articles" data-listing-date-sort="1696107600000" data-listing-file-modified-sort="1690395366511" data-listing-reading-time-sort="1.11">
+    <li data-index="0" data-categories="Articles" data-listing-date-sort="1696107600000" data-listing-file-modified-sort="1690395366000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Youqi Zhang, Zhenkun Li, Rui Hao, Weiwei Lin, Lingfang Li, Di Su</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">High-fidelity time-series data synthesis based on finite element simulation and data space mapping</span>.
@@ -252,7 +255,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.sciencedirect.com/science/article/pii/S0888327023005381" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/High-fidelity time-series.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="1" data-categories="Conference papers" data-listing-date-sort="1688245200000" data-listing-file-modified-sort="1689847335000" data-listing-reading-time-sort="0.005">
+    <li data-index="1" data-categories="Conference papers" data-listing-date-sort="1688245200000" data-listing-file-modified-sort="1689847335738" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
         <span class="listing-author">Yifu Lan, Zhenkun Li, Youqi Zhang, Weiwei Lin</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Small-scale damage detection of bridges using machine learning techniques and drive-by inspection methods</span>.
@@ -260,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://doi.org/10.1201/9781003323020-44" class="badge badge-small badge-blue">DOI</a>
       <a href="https://zhenkunli.com/papers/ialcce2023-yifu.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="2" data-categories="Conference papers" data-listing-date-sort="1688245200000" data-listing-file-modified-sort="1689847338000" data-listing-reading-time-sort="0.005">
+    <li data-index="2" data-categories="Conference papers" data-listing-date-sort="1688245200000" data-listing-file-modified-sort="1689847338689" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
         <span class="listing-author">Zhenkun Li, Weiwei Lin, Youqi Zhang</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Indirect bridge damage detection using frequencies identified from vibrations of a single two-axle vehicle</span>.
@@ -268,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://doi.org/10.1201/9781003323020-43" class="badge badge-small badge-blue">DOI</a>
       <a href="https://zhenkunli.com/papers/ialcce2023-zhenkun.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="3" data-categories="Articles" data-listing-date-sort="1688072400000" data-listing-file-modified-sort="1688223481000" data-listing-reading-time-sort="1.38">
+    <li data-index="3" data-categories="Articles" data-listing-date-sort="1688072400000" data-listing-file-modified-sort="1688223481261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun Li, Weiwei Lin, Youqi Zhang</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Bridge Frequency Scanning Using the Contact-Point Response of an Instrumented 3D Vehicle: Theory and Numerical Simulation</span>.
@@ -277,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.hindawi.com/journals/schm/2023/3924349/" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/010_3D-vehicle.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="4" data-categories="Articles" data-listing-date-sort="1686949200000" data-listing-file-modified-sort="1687066570000" data-listing-reading-time-sort="1.2">
+    <li data-index="4" data-categories="Articles" data-listing-date-sort="1686949200000" data-listing-file-modified-sort="1687066570000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun Li, Yifu Lan, Weiwei Lin</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Indirect damage detection for bridges using sensing and temporarily parked vehicles</span>.
@@ -286,7 +289,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://authors.elsevier.com/sd/article/S0141-0296(23)00874-X" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/009_Two-vehicles.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="5" data-categories="Preprints" data-listing-date-sort="1680814800000" data-listing-file-modified-sort="1689848260000" data-listing-reading-time-sort="1.12">
+    <li data-index="5" data-categories="Preprints" data-listing-date-sort="1680814800000" data-listing-file-modified-sort="1689848260398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Youqi Zhang, Zhenkun Li, Rui Hao, Weiwei Lin, Lingfang Li, Di Su</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">High-Fidelity Time-Series Data Synthesis based on Finite Element Simulation and Data Space Projection</span>.
@@ -295,8 +298,8 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://ssrn.com/abstract=4412976" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/SSRN-id4412976.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="6" data-categories="Articles" data-listing-date-sort="1679781600000" data-listing-file-modified-sort="1686666066000" data-listing-reading-time-sort="1.41">
-        <span class="listing-author">Yifu Lan，Zhenkun Li, Weiwei Lin</span>
+    <li data-index="6" data-categories="Articles" data-listing-date-sort="1679781600000" data-listing-file-modified-sort="1690783443544" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+        <span class="listing-author">Yifu Lan, Zhenkun Li, Weiwei Lin</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">A Time-Domain Signal Processing Algorithm for Data-Driven Drive-by Inspection Methods: An Experimental Study</span>.
           <span class="listing-details"><em>Materials</em>, <b>16</b>(7), 2624</span>.
@@ -304,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.mdpi.com/1996-1944/16/7/2624" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/008_materials-16-02624.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="7" data-categories="Articles" data-listing-date-sort="1677189600000" data-listing-file-modified-sort="1686665566000" data-listing-reading-time-sort="1.295">
+    <li data-index="7" data-categories="Articles" data-listing-date-sort="1677189600000" data-listing-file-modified-sort="1686665566701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun Li, Yifu Lan， Weiwei Lin</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Investigation of Frequency-Domain Dimension Reduction for A2M-Based Bridge Damage Detection Using Accelerations of Moving Vehicles</span>.
@@ -313,7 +316,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.mdpi.com/1996-1944/16/5/1872" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/007_materials-16-01872.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="8" data-categories="Articles" data-listing-date-sort="1675461600000" data-listing-file-modified-sort="1686665561000" data-listing-reading-time-sort="1.19">
+    <li data-index="8" data-categories="Articles" data-listing-date-sort="1675461600000" data-listing-file-modified-sort="1686665561227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun Li, Weiwei Lin, Youqi Zhang</span>
         (<span class="listing-date">2023</span>)
         <span class="listing-title">Drive-by bridge damage detection using Mel-frequency cepstral coefficients and support vector machine</span>.
@@ -322,7 +325,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://journals.sagepub.com/doi/10.1177/14759217221150932" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/006_Drive-by.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="9" data-categories="Articles" data-listing-date-sort="1670364000000" data-listing-file-modified-sort="1686665555000" data-listing-reading-time-sort="1.335">
+    <li data-index="9" data-categories="Articles" data-listing-date-sort="1670364000000" data-listing-file-modified-sort="1686665555564" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun Li, Weiwei Lin, Youqi Zhang</span>
         (<span class="listing-date">2022</span>)
         <span class="listing-title">Real-time drive-by bridge damage detection using deep auto-encoder</span>.
@@ -331,21 +334,21 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.sciencedirect.com/science/article/pii/S235201242201133X?via%3Dihub" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/005_Real-time.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="10" data-categories="Conference papers" data-listing-date-sort="1654376400000" data-listing-file-modified-sort="1689847337000" data-listing-reading-time-sort="0.005">
+    <li data-index="10" data-categories="Conference papers" data-listing-date-sort="1654376400000" data-listing-file-modified-sort="1689847337108" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
         <span class="listing-author">Youqi Zhang, Zhenkun Li, Rui Hao, Weiwei Lin, Lingfang Li, Di Su</span>
         (<span class="listing-date">2022</span>)
         <span class="listing-title">Vibration Data Synthesis by using Finite Element Analysis and Artificial Neural Network</span>.
           <span class="listing-details">In proceedings of the 8th World Conference on Structural Control and Monitoring (8WCSCM)，5-8 June, 2022, University of Central Florida, Orlando, Florida, U.S.A.  in press</span>.
       <a href="https://zhenkunli.com/papers/wcscm2022-youqi.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="11" data-categories="Conference papers" data-listing-date-sort="1654376400000" data-listing-file-modified-sort="1689974326544" data-listing-reading-time-sort="0.005">
+    <li data-index="11" data-categories="Conference papers" data-listing-date-sort="1654376400000" data-listing-file-modified-sort="1689974326000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
         <span class="listing-author">Zhenkun Li, Weiwei Lin, Youqi Zhang</span>
         (<span class="listing-date">2022</span>)
         <span class="listing-title">Drive-by Damage Detection in Bridges using Mel- frequency Cepstral Coefﬁcients and Machine Learning</span>.
           <span class="listing-details">In proceedings of the 8th World Conference on Structural Control and Monitoring (8WCSCM)，5-8 June, 2022, University of Central Florida, Orlando, Florida, U.S.A. in press</span>.
       <a href="https://zhenkunli.com/papers/wcscm2022-zhenkun-accepted.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="12" data-categories="Articles" data-listing-date-sort="1642456800000" data-listing-file-modified-sort="1687066929000" data-listing-reading-time-sort="1.14">
+    <li data-index="12" data-categories="Articles" data-listing-date-sort="1642456800000" data-listing-file-modified-sort="1687066929000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Zhenkun&nbsp;Li, Jilin&nbsp;Hou, Łukasz&nbsp;Jankowski</span>
         (<span class="listing-date">2022</span>)
         <span class="listing-title">Structural damage identification based on&nbsp;estimated additional virtual masses and&nbsp;Bayesian theory</span>.
@@ -354,7 +357,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://link.springer.com/article/10.1007/s00158-021-03156-y" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/004_Structural.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="13" data-categories="Articles" data-listing-date-sort="1601067600000" data-listing-file-modified-sort="1687066757000" data-listing-reading-time-sort="1.685">
+    <li data-index="13" data-categories="Articles" data-listing-date-sort="1601067600000" data-listing-file-modified-sort="1687066757000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Jilin Hou, Zhenkun Li, Qingxia Zhang, Łukasz Jankowski, and Haibin Zhang</span>
         (<span class="listing-date">2020</span>)
         <span class="listing-title">Local Mass Addition and Data Fusion for Structural Damage Identification Using Approximate Models</span>.
@@ -363,7 +366,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219455420501242" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/003_Local.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="14" data-categories="Articles" data-listing-date-sort="1578088800000" data-listing-file-modified-sort="1687066809000" data-listing-reading-time-sort="1.255">
+    <li data-index="14" data-categories="Articles" data-listing-date-sort="1578088800000" data-listing-file-modified-sort="1687066809000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
         <span class="listing-author">Jilin Hou, Zhenkun Li, Łukasz Jankowski, Sijie Wang</span>
         (<span class="listing-date">2020</span>)
         <span class="listing-title">Estimation of virtual masses for structural damage identification</span>.
@@ -372,7 +375,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="https://onlinelibrary.wiley.com/doi/10.1002/stc.2585#" class="badge badge-small badge-blue">Online</a>
       <a href="https://zhenkunli.com/papers/002_Estimation.pdf" class="badge badge-small badge-red">pdf</a>
     </li>
-    <li data-index="15" data-categories="Articles" data-listing-date-sort="1547589600000" data-listing-file-modified-sort="1686665495000" data-listing-reading-time-sort="0.92">
+    <li data-index="15" data-categories="Articles" data-listing-date-sort="1547589600000" data-listing-file-modified-sort="1686665495520" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
         <span class="listing-author">Jilin Hou , Zhenkun Li, Qingxia Zhang, Runfang Zhou, Łukasz Jankowski</span>
         (<span class="listing-date">2019</span>)
         <span class="listing-title">Optimal Placement of Virtual Masses for Structural Damage Identiﬁcation</span>.
@@ -414,9 +417,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -481,6 +498,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -524,6 +627,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© Zhenkun Li (updated on 20 July 2023)</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 
