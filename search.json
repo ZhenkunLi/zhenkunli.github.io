@@ -67,7 +67,7 @@
     "href": "about/index.html#employment",
     "title": "About me",
     "section": "Employment",
-    "text": "Employment\n\nProject employee, Department of Civil Engineering, Aalto University, 2021–."
+    "text": "Employment\n\nProject employee, Department of Civil Engineering, Aalto University, 10.2021-present."
   },
   {
     "objectID": "about/index.html#awards-and-honours",
@@ -81,7 +81,7 @@
     "href": "about/index.html#professional-competence-certificates",
     "title": "About me",
     "section": "Professional Competence & Certificates",
-    "text": "Professional Competence & Certificates\n\nLanguage: English, Chinese (mother tongue).\nData Analysis: machine learning|deep learning|computer vision|signal processing\nNational Computer Rank Examination Certificate of Level 2 (C language).\nNational Computer Rank Examination Certificate of Level 3 (Internet technology).\nNational 1st Class Certified Structural Engineer.\nNational Certificate of BIM Skill Proficiency Test Level 1.\nMain Software:\nComputing: MATLAB, Octave, Julia, R\nProgramming Languages: Python(Pytorch), Java, JavaScript(beginner).\nNumerical simulation: ANSYS, Abaqus, SAP2000, YJK, PKPM.\nModeling: SOLIDWORKS, Revit.\nText processing: MS Office, LaTeX, HTML+CSS.\nFigures: OriginLab, Photoshop, Illustrator, CorelDRAW, Auto CAD.\nVideo editing: Corel VideoStudio, Premiere, After Effects."
+    "text": "Professional Competence & Certificates\n\nLanguage: English, Chinese (mother tongue),German (very beginner).\nData Analysis: machine learning|deep learning|computer vision|signal processing\nNational Computer Rank Examination Certificate of Level 2 (C language).\nNational Computer Rank Examination Certificate of Level 3 (Internet technology).\nNational 1st Class Certified Structural Engineer.\nNational Certificate of BIM Skill Proficiency Test Level 1.\nMain Software:\nComputing: MATLAB, Octave, Julia, R\nProgramming Languages: Python(sklearn,Pytorch), Java(beginner).\nNumerical simulation: ANSYS, Abaqus, SAP2000, YJK, PKPM.\nModeling: SOLIDWORKS, Revit.\nText processing: MS Office, LaTeX, HTML+CSS.\nFigures: OriginLab, Photoshop, Illustrator, CorelDRAW, Auto CAD.\nVideo editing: Corel VideoStudio, Premiere, After Effects."
   },
   {
     "objectID": "about/index.html#hobbies",
@@ -107,7 +107,7 @@
   {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
-    "title": "Zhenkun Li",
+    "title": "Publications",
     "section": "",
     "text": "Curriculum Vitae         Google Scholar"
   },
@@ -166,5 +166,19 @@
     "title": "About me",
     "section": "",
     "text": "If you are interested in structural health monitoring (SHM), vehicle-bridge interaction (VBI), and machine learning, and intend to cooperate with me, please contact me at zhenkun.li@aalto.fi.\n\nZhenkun Li is a Researcher at the Department of Civil Engineering at Aalto University. He received his M.Eng. in School of Civil Engineering from Dalian University of Technology, China. His research interests lie in the Structural Health Monitoring (SHM) for civil infrastructure systems, damage detection, finite element analysis, deep learning and computer vision.\n\n\n\n\n\nCV\n\n\nGoogle Scholar\n\n\n\n\n\n\nORCID\n\n\nScopus\n\n\n\n\n\n\n\nGitHub\n\n\nLinkedIn"
+  },
+  {
+    "objectID": "research/index.html#research-interests",
+    "href": "research/index.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Structural health monitoring(SHM) using machine learning and computer vision techniques\nDamage identification\nBayesian theory\nStructural vibration performance analysis\nFinite Element Analysis for Complex Structural Problems"
+  },
+  {
+    "objectID": "research-team/index.html#current-members",
+    "href": "research-team/index.html#current-members",
+    "title": "Research team",
+    "section": "",
+    "text": "Supervisor: Weiwei Lin  \nDoctoral Researchers:\n\nRui Hao. Fatigue life evaluation of bridge structures.\nYifu Lan. Algorithmic Advancements in Drive-by Inspection Methods Towards Intelligent Bridge Monitoring.   \nZhenkun Li. Bridge health condition assessment using instrumented moving vehicles.   \nPramod Acharya. Redundancy evaluation of bridge structures. \nMahmoud Hosseini. Robustness evaluation of bridge structures."
   }
 ]
