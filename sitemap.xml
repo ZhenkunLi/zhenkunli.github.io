@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zhenkunli.com/gallery.html</loc>
-    <lastmod>2023-07-20T20:10:12.147Z</lastmod>
+    <lastmod>2023-09-17T10:34:20.684Z</lastmod>
   </url>
   <url>
     <loc>https://zhenkunli.com/index.html</loc>
-    <lastmod>2023-09-17T10:06:07.036Z</lastmod>
+    <lastmod>2023-09-17T10:51:06.147Z</lastmod>
   </url>
   <url>
     <loc>https://zhenkunli.com/about/index.html</loc>
-    <lastmod>2023-09-17T10:04:07.238Z</lastmod>
+    <lastmod>2023-09-17T10:13:50.344Z</lastmod>
   </url>
   <url>
     <loc>https://zhenkunli.com/research/index.html</loc>
-    <lastmod>2023-09-05T09:49:08.921Z</lastmod>
+    <lastmod>2023-09-17T10:45:51.027Z</lastmod>
   </url>
   <url>
     <loc>https://zhenkunli.com/publications/index.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://zhenkunli.com/downloads/index.html</loc>
     <lastmod>2023-07-20T20:08:29.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zhenkunli.com/teaching/index.html</loc>
+    <lastmod>2023-09-17T11:03:19.740Z</lastmod>
   </url>
 </urlset>
