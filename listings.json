@@ -2,6 +2,8 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/ijssd-kun-2026.html",
+      "/publications/MSSP-review.html",
       "/publications/Eurostruct-Kun.html",
       "/publications/Eurostruct-Zhenkun.html",
       "/publications/Structures-Zhou Huang.html",
@@ -31,19 +33,19 @@
       "/publications/evaces2023-zhenkun.html",
       "/publications/ialcce2023-yifu.html",
       "/publications/ialcce2023-zhenkun.html",
-      "/publications/010_3D-vehicle.html",
-      "/publications/009_Two-vehicles.html",
+      "/publications/3D-vehicle.html",
+      "/publications/Two-vehicles.html",
       "/publications/SSRN-id4412976.html",
-      "/publications/008_materials-16-02624.html",
-      "/publications/007_materials-16-01872.html",
-      "/publications/006_Drive-by.html",
-      "/publications/005_Real-time.html",
+      "/publications/materials-16-02624.html",
+      "/publications/materials-16-01872.html",
+      "/publications/Drive-by.html",
+      "/publications/Real-time.html",
       "/publications/wcscm2022-youqi.html",
       "/publications/wcscm2022-zhenkun-accepted.html",
-      "/publications/004_Structural.html",
-      "/publications/003_Local.html",
-      "/publications/002_Estimation.html",
-      "/publications/001_Optimal.html"
+      "/publications/Structural.html",
+      "/publications/Local.html",
+      "/publications/Estimation.html",
+      "/publications/Optimal.html"
     ]
   }
 ]
