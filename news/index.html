@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>News and updates – Zhenkun Li</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4a64ece5968bba88cf9cd5111b7c6b60.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-53f7c6125ad3d7ec74695644027c3280.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -205,6 +208,7 @@ ul.task-list li input[type="checkbox"] {
 <p><!-- * [The pension age will soon change to 67, should it be higher?](https://www.abc.net.au/melbourne/programs/mornings/pension-age-increasing/102414352), ABC Radio, 31 May 2023. --> <!-- * [Work until 70: higher pension age on the horizon](https://www.theaustralian.com.au/business/wealth/work-until-70-higher-pension-age-on-horizon-as-life-expectancy-rises/news-story/8563ab2eca5a3c733fcb154ccfb8a970), The Australian, 30 May 2023. --></p>
 <!-- ## News and updates -->
 <ul>
+<li><p>October 1, 2026. I have joined <a href="https://wind.dtu.dk/en">Department of Wind and Energy Systems (DTU Wind)</a> at <a href="https://www.dtu.dk/english">Technical University of Denmark</a> as a Postdoctoral Researcher, where my research will contribute to operations and maintenance of wind turbines.</p></li>
 <li><p>January 29, 2026. The paper <a href="https://doi.org/10.1016/j.ymssp.2026.113918">“A comprehensive review of indirect bridge health monitoring”</a> co-authored with Weiwei Lin, Chul-Woo Kim, Maria Pina Limongelli, and Eleni Chatzi has been published by <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">Mechanical Systems and Signal Processing</a>.</p></li>
 <li><p>July 3, 2024. The paper <a href="https://doi.org/10.1016/j.ymssp.2024.111677">“Investigation of time-varying frequencies of two-axle vehicles and bridges during interaction using drive-by methods and improved multisynchrosqueezing transform”</a> co-authored with Yifu Lan, Kun Feng and Weiwei Lin has been published by <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">Mechanical Systems and Signal Processing</a>.</p></li>
 <li><p>July 2, 2024. The paper <a href="https://doi.org/10.1016/j.autcon.2024.105587">“Footbridge damage detection using smartphone-recorded responses of micromobility and convolutional neural networks”</a> co-authored with Yifu Lan and Weiwei Lin has been published by <a href="https://www.sciencedirect.com/journal/automation-in-construction">Automation in Construction</a>.</p></li>
@@ -276,13 +280,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
