@@ -1,0 +1,56 @@
+---
+title: Gallery
+subtitle: Conferences, colleagues, and academic exchanges.
+description: Photographs from conferences and academic exchanges by Zhenkun Li.
+toc: false
+page-layout: full
+---
+
+## IALCCE 2023
+
+**Milan, Italy · 2–6 July 2023**
+
+::: {.photo-grid}
+![With Eugen Brühwiler.](img/gallery/eugen-ialcce2023.webp){loading=lazy fig-alt="With Eugen Brühwiler."}
+
+![With Mitsuyoshi Akiyama.](img/gallery/akiyama-ialcce2023.webp){loading=lazy fig-alt="With Mitsuyoshi Akiyama."}
+
+![With You Dong.](img/gallery/you-ialcce2023.webp){loading=lazy fig-alt="With You Dong."}
+
+![With Necati Catbas.](img/gallery/catbas-ialcce2023.webp){loading=lazy fig-alt="With Necati Catbas."}
+
+![With friends and colleagues at IALCCE 2023.](img/gallery/friends-ialcce2023.webp){loading=lazy fig-alt="With friends and colleagues at IALCCE 2023."}
+:::
+
+## Academic exchange in Osaka
+
+**Osaka, Japan · 7–15 January 2020**
+
+::: {.photo-grid .wide-photos}
+![Academic exchange in Osaka, January 2020.](img/gallery/osaka-university-1.webp){loading=lazy fig-alt="Academic exchange in Osaka, January 2020."}
+
+![With colleagues during the academic exchange in Osaka.](img/gallery/osaka-university-2.webp){loading=lazy fig-alt="With colleagues during the academic exchange in Osaka."}
+:::
+
+## EVACES 2019
+
+**Nanjing, China · 5–8 September 2019**
+
+::: {.photo-grid .wide-photos}
+![Conference participants at EVACES 2019 in Nanjing.](img/gallery/evaces2019-1.webp){loading=lazy fig-alt="Conference participants at EVACES 2019 in Nanjing."}
+
+![With colleagues at EVACES 2019.](img/gallery/evaces2019-3.webp){loading=lazy fig-alt="With colleagues at EVACES 2019."}
+
+![With Satish Nagarajaiah at EVACES 2019.](img/gallery/evaces2019-2.webp){loading=lazy fig-alt="With Satish Nagarajaiah at EVACES 2019."}
+:::
+
+## 7WCSCM 2018
+
+**Qingdao, China · 22–25 July 2018**
+
+![With Łukasz Jankowski and colleagues at 7WCSCM.](img/gallery/7wcscm.webp){loading=lazy fig-alt="With Łukasz Jankowski and colleagues at 7WCSCM."}
+
+## Online conferences
+
+- **8WCSCM**, Orlando, USA · 5–8 June 2022 — attended online.
+- **EVACES 2021**, Saitama, Japan · 14–17 September 2021 — attended online.

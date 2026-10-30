@@ -1,0 +1,115 @@
+---
+title: About & CV
+subtitle: Research background, experience, and academic service.
+description: Zhenkun Li's academic biography, education, professional experience, service, and awards.
+---
+
+## Biography
+
+I am a **Postdoctoral Researcher at the Technical University of Denmark (DTU)**, working with Kim Branner on structural health monitoring, digital twins, computer vision, and predictive maintenance for wind turbines.
+
+I received my D.Sc. (Tech.) in Civil Engineering from Aalto University in 2023, supervised by Weiwei Lin. My doctoral thesis, [*Bridge health condition assessment using instrumented moving vehicles*](https://aaltodoc.aalto.fi/handle/123456789/123671), received a Dean's Doctoral Dissertation Award. Before joining DTU, I held research positions at Aalto University and Politecnico di Milano.
+
+My research spans structural dynamics, drive-by inspection, damage identification, Bayesian inference, and learning-based monitoring. I combine signal processing and numerical models with laboratory and field measurements.
+
+::: {.profile-actions}
+[Download full CV ↓](../papers/updated_CV.pdf){.button-primary}
+[Google Scholar](https://scholar.google.com/citations?user=PrGJZLIAAAAJ&hl=en){.button-secondary}
+[ORCID](https://orcid.org/0000-0002-1444-6017){.button-secondary}
+:::
+
+## Experience
+
+| Period | Position |
+|:--|:--|
+| Oct 2026–present | **Postdoctoral Researcher**, Technical University of Denmark, Roskilde. With Kim Branner. SHM, digital twins, computer vision, and wind turbine operations and predictive maintenance. |
+| Dec 2025–Sep 2026 | **Research Fellow**, Politecnico di Milano, Milan. With Maria Pina Limongelli. Crowdsensing, satellite-based monitoring, computer vision, value of information, and digital twins. |
+| Nov 2023–Nov 2025 | **Postdoctoral Researcher**, Aalto University, Espoo. With Weiwei Lin. SHM, vehicle scanning methods, machine learning, robotics, digital twins, and computer vision. |
+| Apr–Sep 2021 | **Structural Algorithm Engineer**, Beijing Smartbow Information Technology Co., Ltd., Beijing. SHM and operational modal analysis algorithms in Python and MATLAB. |
+| Jul 2020–Mar 2021 | **Structural Engineer**, TCDRI, Sinoma International Co., Ltd., Tianjin. Structural design and Revit development. |
+
+## Education
+
+::: {.education-item}
+### D.Sc. (Tech.), Civil Engineering
+
+**Aalto University**, Finland · October 2021–October 2023  
+Supervisor: Weiwei Lin. Thesis: *Bridge health condition assessment using instrumented moving vehicles* (with distinction).
+:::
+
+::: {.education-item}
+### M.Eng., Structural Engineering
+
+**Dalian University of Technology**, China · September 2017–June 2020  
+Supervisor: Jilin Hou. Thesis: *Additional Virtual Mass Damage Identification Method Based on Narrow Band Frequency Responses* (with distinction).
+:::
+
+::: {.education-item}
+### B.Eng., Civil Engineering
+
+**Qingdao University of Technology**, China · September 2013–June 2017  
+Diploma thesis: *Architecture and structural design of HOTEL SWAN LAKE at Changdao*.
+:::
+
+## Academic service
+
+### Editorial roles
+
+- **Associate Editor**, *Nondestructive Testing and Evaluation*.
+- **Reviewing Editor**, Springer Nature.
+- **Early Career Editorial Board**: *Advances in Bridge Engineering*; *Bridge Engineering* (ICE Proceedings); *Smart Construction*; *Smart Underground Engineering*; *Journal of Railway Science and Technology*; *Journal of Municipal Technology*; *AI & Materials*; *Intelligent Transportation Infrastructure*.
+
+### Guest editing
+
+- *Advances in Structural Engineering*: Civil Infrastructure Health Monitoring and Digital Twins Integrated with Verification, Validation, and Uncertainty Quantification.
+- *Structural Durability & Health Monitoring*: Sustainable and Resilient Civil Infrastructure with Intelligence and Digital Transformation.
+- *Structural Durability & Health Monitoring*: Structural Health Monitoring, Modeling, and Durability Assessment of Civil Infrastructure under Operational and Environmental Actions.
+- *Buildings* & *Sensors*: Recent Developments and Applications in Vehicle-Assisted Structural Health Monitoring for Infrastructures.
+- *Applied Sciences*: [Evaluation of Buildings' and Infrastructures' Performance and Analysis of Seismic and Naturally Induced Disasters](https://www.mdpi.com/journal/applsci/special_issues/W8X6088P6L).
+- *Structural Durability & Health Monitoring*: [Advanced Computer Vision Methods and Related Technologies in Structural Health Monitoring](https://www.techscience.com/sdhm/special_detail/computer-vision_SHM).
+- *Buildings*: Advanced Cementitious Materials: Integrating Nanotechnology, Sustainability, and Intelligent Design.
+
+### Peer review and grant evaluation
+
+Reviewer for journals including *Automation in Construction*, *Mechanical Systems and Signal Processing*, *Advanced Engineering Informatics*, *Construction and Building Materials*, *Developments in the Built Environment*, *Engineering Structures*, *Journal of Building Engineering*, *Journal of Sound and Vibration*, *Measurement*, *Journal of Civil Structural Health Monitoring*, and *Advances in Structural Engineering*.
+
+Grant evaluation for internal research grants funded by Ajman University's Deanship of Research and Graduate Studies, United Arab Emirates.
+
+### Memberships
+
+- International Association for Bridge Maintenance and Safety (IABMAS).
+- International Association for Life-Cycle Civil Engineering (IALCCE).
+- Society for Civil Structural Health Monitoring (SCSHM), full member.
+- IABSE, [Task Group 5.7: Digital Twins on Existing Bridges](https://www.iabse.org/TG5.7).
+
+## Awards & honours
+
+| Year | Recognition |
+|:--|:--|
+| 2026 | Audience Prize, EWSHM Young Researcher Challenge (supervisor). |
+| 2024 | Dean's Doctoral Dissertation Award, Aalto University. |
+| 2023 | Incentive grant, Fabian and Jaakko Ahvenainen Foundation, Aalto University. |
+| 2020 | Excellent Master's Thesis, Dalian University of Technology. |
+| 2020 | Outstanding Graduate of Liaoning Province. |
+| 2019 | Scholarship of Chinese Road and Bridge, Dalian University of Technology. |
+| 2018 | Outstanding Postgraduate Student, Dalian University of Technology. |
+| 2016 | Scholarship from Shandong Province Government (1 of 508 students). |
+| 2015 | Second Prize, National Mathematical Modeling Competition. |
+| 2015 | Second Prize, 14th Challenge Cup Competition in Shandong Province. |
+
+## Methods & technical skills
+
+**Programming and analysis:** Python (scikit-learn, PyTorch), MATLAB, R, Julia, Octave.  
+**Numerical modelling:** ANSYS and Abaqus.  
+**CAD and BIM:** Revit and SOLIDWORKS.  
+**Research tools:** LaTeX, MS Office, OriginLab, Illustrator, Inkscape, Photoshop, and CorelDRAW.  
+**Languages:** Chinese (native), English (C1), and German (beginner).
+
+Certificates include Chinese National Computer Rank Examination Levels 2 and 3, and BIM Skill Proficiency Test Level 1. I have passed the Fundamental Examination for the Chinese National First-Class Registered Structural Engineer qualification.
+
+## Contact
+
+**Email:** [zhelia@dtu.dk](mailto:zhelia@dtu.dk) · [zhenkun-li@outlook.com](mailto:zhenkun-li@outlook.com)  
+**Address:** Frederiksborgvej 399, 4000 Roskilde, Denmark.
+
+[LinkedIn](https://www.linkedin.com/in/zhenkun-li/) · [GitHub](https://github.com/ZhenkunLi) · [ResearchGate](https://www.researchgate.net/profile/Zhenkun-Li-3)

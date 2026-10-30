@@ -1,0 +1,11 @@
+---
+title: Page not found
+description: Return to Zhenkun Li's academic website or search for a page.
+toc: false
+---
+
+The page may have moved. Use the navigation or site search to find what you need.
+
+[Back to the homepage](index.qmd){.button-primary}
+[Explore research](research/index.qmd){.button-secondary}
+[Browse publications](publications/index.qmd){.button-secondary}

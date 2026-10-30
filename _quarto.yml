@@ -1,0 +1,91 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about/index.qmd
+    - research/index.qmd
+    - publications/index.qmd
+    - teaching/index.qmd
+    - news/index.qmd
+    - research-team/index.qmd
+    - downloads/index.qmd
+    - gallery.qmd
+    - 404.qmd
+  pre-render:
+    - python scripts/build_publications.py
+  resources:
+    - CNAME
+    - .nojekyll
+    - img/zhenkun.jpg
+    - img/gallery/
+    - img/research/
+    - papers/
+    - assets/favicon.svg
+    - assets/publications.js
+    - assets/site-language.js
+    - assets/fonts/
+    - "!.local-review/**"
+    - "!.Rhistory"
+
+website:
+  title: Zhenkun Li
+  site-url: https://zhenkunli.com
+  description: Zhenkun Li's research in structural health monitoring, intelligent sensing, and data-driven infrastructure assessment.
+  favicon: assets/favicon.svg
+  open-graph:
+    image: img/zhenkun.jpg
+  navbar:
+    title: Zhenkun Li
+    background: light
+    collapse-below: lg
+    left:
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      - href: about/index.qmd
+        text: About & CV
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: news/index.qmd
+        text: News
+      - text: More
+        menu:
+          - href: research-team/index.qmd
+            text: Supervision & collaborators
+          - href: downloads/index.qmd
+            text: Resources
+          - href: gallery.qmd
+            text: Gallery
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: "© 2026 Zhenkun Li · Structural health monitoring & intelligent sensing"
+    right:
+      - text: Contact
+        href: mailto:zhelia@dtu.dk
+      - text: GitHub
+        href: https://github.com/ZhenkunLi
+      - text: Design inspiration
+        href: https://robjhyndman.com/
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    css: [assets/fonts.css, styles.css]
+    toc: true
+    toc-title: On this page
+    anchor-sections: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-copy: true
+    include-after-body: assets/site-footer.html
+    lang: en
+    date-format: D MMMM YYYY
+
+execute:
+  enabled: false

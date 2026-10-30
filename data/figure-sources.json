@@ -1,0 +1,197 @@
+[
+  {
+    "id": "mobile-sensing",
+    "file": "1-s2.0-S0926580524003236-main.pdf",
+    "page": 9,
+    "figure": "11",
+    "crop": [
+      35,
+      45,
+      560,
+      270
+    ],
+    "doi": "10.1016/j.autcon.2024.105587"
+  },
+  {
+    "id": "intelligent-diagnostics",
+    "file": "Real-time.pdf",
+    "page": 3,
+    "figure": "1",
+    "crop": [
+      90,
+      47,
+      505,
+      282
+    ],
+    "doi": "10.1016/j.istruc.2022.11.094"
+  },
+  {
+    "id": "vision-field-monitoring",
+    "file": "1-s2.0-S0263224126021500-main.pdf",
+    "page": 4,
+    "figure": "3",
+    "crop": [
+      35,
+      50,
+      560,
+      218
+    ],
+    "doi": "10.1016/j.measurement.2026.122441"
+  },
+  {
+    "id": "structural-identification",
+    "file": "Structural.pdf",
+    "page": 14,
+    "figure": "16",
+    "crop": [
+      48,
+      242,
+      292,
+      518
+    ],
+    "doi": "10.1007/s00158-021-03156-y"
+  },
+  {
+    "id": "materials-informatics",
+    "file": "1-s2.0-S026382232500457X-main.pdf",
+    "page": 4,
+    "figure": "2",
+    "crop": [
+      75,
+      350,
+      525,
+      632
+    ],
+    "doi": "10.1016/j.compstruct.2025.119292"
+  },
+  {
+    "id": "mobile-sensing-vehicle-model",
+    "file": "3D-vehicle.pdf",
+    "page": 4,
+    "figure": "1",
+    "crop": [
+      70,
+      65,
+      530,
+      246
+    ],
+    "doi": "10.1155/2023/3924349"
+  },
+  {
+    "id": "mobile-sensing-pedestrian",
+    "file": "1-s2.0-S0022460X2600266X-main.pdf",
+    "page": 3,
+    "figure": "1",
+    "crop": [
+      36,
+      49,
+      510,
+      178
+    ],
+    "doi": "10.1016/j.jsv.2026.119904"
+  },
+  {
+    "id": "intelligent-diagnostics-lab",
+    "file": "Real-time.pdf",
+    "page": 4,
+    "figure": "2",
+    "crop": [
+      312,
+      50,
+      552,
+      212
+    ],
+    "doi": "10.1016/j.istruc.2022.11.094"
+  },
+  {
+    "id": "intelligent-diagnostics-results",
+    "file": "1-s2.0-S0888327023008075-main.pdf",
+    "page": 16,
+    "figure": "20",
+    "crop": [
+      82,
+      48,
+      462,
+      207
+    ],
+    "doi": "10.1016/j.ymssp.2023.110899"
+  },
+  {
+    "id": "vision-field-monitoring-results",
+    "file": "CACAIE-2026-Sida.pdf",
+    "page": 10,
+    "figure": "12",
+    "crop": [
+      55,
+      289,
+      540,
+      486
+    ],
+    "doi": "10.1016/j.cacaie.2026.100205"
+  },
+  {
+    "id": "vision-field-monitoring-field",
+    "file": "1-s2.0-S2352012426008982-main.pdf",
+    "page": 4,
+    "figure": "2",
+    "crop": [
+      37,
+      54,
+      558,
+      279
+    ],
+    "doi": "10.1016/j.istruc.2026.111949"
+  },
+  {
+    "id": "structural-identification-experiment",
+    "file": "Structural.pdf",
+    "page": 15,
+    "figure": "18",
+    "crop": [
+      50,
+      279,
+      292,
+      552
+    ],
+    "doi": "10.1007/s00158-021-03156-y"
+  },
+  {
+    "id": "structural-identification-results",
+    "file": "Structural.pdf",
+    "page": 14,
+    "figure": "17",
+    "crop": [
+      52,
+      549,
+      548,
+      702
+    ],
+    "doi": "10.1007/s00158-021-03156-y"
+  },
+  {
+    "id": "materials-informatics-multiscale",
+    "file": "1-s2.0-S026382232500457X-main.pdf",
+    "page": 4,
+    "figure": "1",
+    "crop": [
+      148,
+      51,
+      447,
+      331
+    ],
+    "doi": "10.1016/j.compstruct.2025.119292"
+  },
+  {
+    "id": "materials-informatics-explainability",
+    "file": "1-s2.0-S0016236125010440-main.pdf",
+    "page": 12,
+    "figure": "11",
+    "crop": [
+      37,
+      48,
+      561,
+      458
+    ],
+    "doi": "10.1016/j.fuel.2025.135319"
+  }
+]

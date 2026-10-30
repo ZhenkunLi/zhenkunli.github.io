@@ -10,3 +10,13 @@
 /_*.local
 
 /.luarc.json
+
+# Generated website and local review files
+/.Rhistory
+/_site/
+/_includes/publications.html
+/.local-review/
+__pycache__/
+*.pyc
+
+**/*.quarto_ipynb

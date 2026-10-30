@@ -1,0 +1,54 @@
+---
+title: Teaching
+subtitle: Structural engineering, sustainable infrastructure, and research supervision.
+description: Teaching and pedagogical training at Aalto University, with links to thesis supervision.
+---
+
+## Courses
+
+I have served as a teaching assistant in the Department of Civil Engineering at Aalto University, supporting courses at both bachelor's and master's levels.
+
+::: {.course-item}
+[2025 · Spring]{.eyebrow}
+
+### Sustainability and Circular Economy in Civil Engineering
+
+**Master's course · Aalto University**  
+Teaching assistant. Course teacher: Weiwei Lin.
+:::
+
+::: {.course-item}
+[2022–2025 · Autumn]{.eyebrow}
+
+### Maintenance and Repair of Structures
+
+**Master's course · Aalto University**  
+Teaching assistant. Course teacher: Weiwei Lin.
+
+The course covers maintenance, repair, strengthening, corrosion protection, and residual service-life evaluation. Students develop a report on sustainable repair measures for an existing project.
+
+Archived course pages: [2023](https://mycourses.aalto.fi/course/view.php?id=39209) · [2022](https://mycourses.aalto.fi/course/view.php?id=35459).
+:::
+
+::: {.course-item}
+[2021 · Autumn]{.eyebrow}
+
+### Fundamentals of Structural Design
+
+**Bachelor's course · Aalto University**  
+Teaching assistant. Course teacher: Athanasios Markou.
+:::
+
+## Pedagogical training
+
+| Training | Credits |
+|:--|--:|
+| A! Peda Intro | 5 |
+| Teaching assistant as a learning instructor | 2 |
+| Doctoral supervision | 3 |
+
+## Thesis supervision
+
+My supervision spans doctoral, master's, and bachelor's research on indirect bridge monitoring, modal identification, and computer vision.
+
+[See supervised research and collaborations →](../research-team/index.qmd)

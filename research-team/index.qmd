@@ -1,0 +1,52 @@
+---
+title: Supervision & collaborators
+subtitle: Shared research across sensing, mechanics, and infrastructure monitoring.
+description: Thesis supervision, the EWSHM Young Researcher Challenge, and international collaborations.
+---
+
+## Doctoral supervision
+
+- **Yuxuan Wang** — Joint PhD advisor, Politecnico di Milano and Southwest Jiaotong University, with Maria Pina Limongelli and Ping Wang.
+- **Ziyi Huang** — Doctoral thesis advisor. *Signal Processing and Modal Fusion for Machine Learning-Enhanced Indirect Bridge Health Monitoring*. Ongoing.
+
+## Master's supervision
+
+- **Yi Li** — *Modal Frequency Extraction of a Bridge Subjected to Impulse Excitation from Parked Vehicle*.
+- **Ziyi Huang** — *Numerical and experimental studies on the extraction of bridge mode shapes using vehicle response*.
+
+## Bachelor's supervision
+
+- **Xinyue Li** — *Time-Varying Characteristic Analysis of Vehicle-Bridge Interaction System Frequencies: A Literature Review*.
+- **Mikko Ihamäki** — *Review of semantic segmentation for crack images in SHM*.
+
+## EWSHM 2026 Young Researcher Challenge
+
+I supervised a team working on **data-driven detection of trends and anomalies in civil engineering applications**. The team received the **Audience Prize (€3,000)**.
+
+| Team member | Institution |
+|:--|:--|
+| Liv Breivik | KTH Royal Institute of Technology, Sweden |
+| Amir Zare Beiranvand | Politecnico di Bari, Italy |
+| Tommaso Panigati | Politecnico di Milano, Italy |
+| Murat Güven | Politecnico di Milano, Italy |
+| Mohsen Rezvani Alile | Politecnico di Milano, Italy |
+
+## International collaborations
+
+| Institution | Research topics |
+|:--|:--|
+| ETH Zurich, Switzerland | Digital twinning, physics-informed deep learning, and satellite-based monitoring. |
+| University College Dublin, Ireland | Crowdsensing, human-based sensing, smartphones, deep learning, and smart cities. |
+| University of Twente, Netherlands | Computer vision, operational and environmental effects, and deep learning. |
+| University of Central Florida, USA | Robotics, computer vision, drive-by monitoring, and latent infrastructure sensing. |
+
+## Research background at Aalto
+
+My doctoral and postdoctoral research at Aalto University was supervised by [Weiwei Lin](https://people.aalto.fi/weiwei.lin). Related work by colleagues includes:
+
+- [Rui Hao](https://www.aalto.fi/en/people/rui-hao) — [Fatigue damage evaluation of cutout details in steel bridges](https://aaltodoc.aalto.fi/handle/123456789/123846).
+- [Yifu Lan](https://www.aalto.fi/en/people/yifu-lan) — [Algorithmic Advancements in Drive-by Inspection Methods Towards Intelligent Bridge Monitoring](https://aaltodoc.aalto.fi/handle/123456789/124189).
+- [Pramod Acharya](https://www.aalto.fi/en/people/pramod-acharya-0) — Redundancy evaluation of bridge structures.
+- [Mahmoud Hosseini](https://research.aalto.fi/en/persons/mahmoud-hosseini) — Robustness evaluation of bridge structures.
+
+[Explore our related publications →](../publications/index.qmd)

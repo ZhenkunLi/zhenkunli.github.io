@@ -1,0 +1,24 @@
+---
+title: Resources
+subtitle: Papers, research profiles, and materials for further reading.
+description: Access Zhenkun Li's CV, publications, doctoral thesis, and research profiles.
+toc: false
+---
+
+## Curriculum vitae
+
+[Download my CV (PDF) ↓](../papers/updated_CV.pdf){.button-primary}
+
+## Papers & thesis
+
+- **[Publications](../publications/index.qmd)** — Journal articles, conference papers, and preprints, with DOI and PDF links where available.
+- **[Doctoral thesis](https://aaltodoc.aalto.fi/handle/123456789/123671)** — *Bridge health condition assessment using instrumented moving vehicles*, Aalto University, 2023.
+- **[Research themes](../research/index.qmd)** — Representative studies and figures organised by topic.
+
+## Research profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=PrGJZLIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1444-6017) · [GitHub](https://github.com/ZhenkunLi) · [ResearchGate](https://www.researchgate.net/profile/Zhenkun-Li-3)
+
+## Data & code enquiries
+
+For questions about data, numerical models, or code associated with a particular paper, please include the paper title or DOI when [contacting me](mailto:zhelia@dtu.dk).
