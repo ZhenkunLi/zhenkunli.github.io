@@ -51,7 +51,7 @@ quarto preview --host 127.0.0.1 --port 4273 --no-browser --no-render
 - PDF 放在 `papers/`，记录中的 `file` 使用文件名。未提供 PDF 的论文只显示 DOI，不生成空下载链接。
 - 15 张研究图按五个方向分组展示，每组 3 张，直接从已有 PDF 提取，未经 AI 重绘。点击图片或 Full size 可查看大图。出处、图号、页码和裁切坐标见 `data/figure-sources.json`。如需重新提取，可安装 `pymupdf pillow` 后运行 `python scripts/extract_figures.py`。常规构建不需要这些第三方包。相册网页使用 `img/gallery/` 中经过方向校正和压缩的 WebP 图片，完整原始照片仍保留在 `img/`。
 - 视觉样式在 `theme.scss` 和 `styles.css` 中维护。全站采用“现代学术”字体搭配：标题和站点名称使用 Source Serif 4，正文、导航与表单使用 Source Sans 3。字体通过 `assets/fonts.css` 从本地 `assets/fonts/` 加载，包含常规、斜体和拉丁扩展字符；字体授权文件保留在同目录。不依赖外部字体 CDN、图标工具包或旧站继承的统计与订阅脚本。
-- 右上角的“中文 / EN”按钮切换导航和各页说明文字，本地译文在 `assets/site-language.js` 中维护；新增或修改英文正文时，请同步更新对应译文。全站引用的论文与学位论文题目、期刊名、作者信息，以及论文目录的出版信息、备注和摘要保持原文，包括首页精选论文、Research 代表性研究和动态页中的论文链接。中文正文使用系统中文字体补充现有西文字体。
+- 右上角的“中文 / EN”按钮切换导航和各页说明文字，本地译文在 `assets/site-language.js` 中维护；新增或修改英文正文时，请同步更新对应译文。全站引用的论文与学位论文题目、期刊名、作者信息，以及论文目录的出版信息、备注和摘要保持原文，包括首页精选论文、Research 代表性研究和动态页中的论文链接。中文标题使用 Noto Serif SC，正文使用 Noto Sans SC；两套思源系中文字体均从本地加载，西文字体保持原有搭配。新增中文用字后可运行 `python scripts/build_chinese_fonts.py` 刷新字形子集，常规构建不访问字体服务。
 - 月亮 / 太阳按钮切换日间和夜间模式，深色配色在 `theme-dark.scss` 与 `styles.css` 中维护。语言与主题选择保存在访客浏览器中，刷新页面或访问其他页面后会保留。论文原图不反色。
 
 ## GitHub 云端自动构建

@@ -40,13 +40,4 @@ I supervised a team working on **data-driven detection of trends and anomalies i
 | University of Twente, Netherlands | Computer vision, operational and environmental effects, and deep learning. |
 | University of Central Florida, USA | Robotics, computer vision, drive-by monitoring, and latent infrastructure sensing. |
 
-## Research background at Aalto
-
-My doctoral and postdoctoral research at Aalto University was supervised by [Weiwei Lin](https://people.aalto.fi/weiwei.lin). Related work by colleagues includes:
-
-- [Rui Hao](https://www.aalto.fi/en/people/rui-hao) — [Fatigue damage evaluation of cutout details in steel bridges](https://aaltodoc.aalto.fi/handle/123456789/123846).
-- [Yifu Lan](https://www.aalto.fi/en/people/yifu-lan) — [Algorithmic Advancements in Drive-by Inspection Methods Towards Intelligent Bridge Monitoring](https://aaltodoc.aalto.fi/handle/123456789/124189).
-- [Pramod Acharya](https://www.aalto.fi/en/people/pramod-acharya-0) — Redundancy evaluation of bridge structures.
-- [Mahmoud Hosseini](https://research.aalto.fi/en/persons/mahmoud-hosseini) — Robustness evaluation of bridge structures.
-
 [Explore our related publications →](../publications/index.qmd)

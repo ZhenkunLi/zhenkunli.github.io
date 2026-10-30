@@ -1,7 +1,7 @@
 /* Shared layout and typography */
 :root { --ink: #283b40; --muted: #5e7071; --accent: #23665d; --line: #dce3db; --wash: #edf2ed; --surface: #fff; --hover: #15493f; --button-ink: #fff; --site-font-heading: "Source Serif 4", Georgia, serif; --site-font-body: "Source Sans 3", "Segoe UI", Arial, sans-serif; }
 body.quarto-dark { color-scheme: dark; --ink: #e2eae7; --muted: #acbfba; --accent: #9bd4c5; --line: #354643; --wash: #1c2826; --surface: #192121; --hover: #c7eee3; --button-ink: #111616; }
-html[lang="zh-Hans"] body { --site-font-heading: "Source Serif 4", "Noto Serif CJK SC", "Songti SC", "Microsoft YaHei", serif; --site-font-body: "Source Sans 3", "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", sans-serif; }
+html[lang="zh-Hans"] body { --site-font-heading: "Source Serif 4", "Noto Serif SC", "Songti SC", "Microsoft YaHei", serif; --site-font-body: "Source Sans 3", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif; }
 html { scroll-padding-top: 100px; }
 body { font-family: var(--site-font-body); -webkit-font-smoothing: antialiased; }
 a { text-underline-offset: .2em; }
