@@ -50,15 +50,11 @@ At DTU, my current work focuses on structural health monitoring, digital twins, 
 [From instrumented vehicles to everyday moving sensors. Field test from Li et al., *Automation in Construction* (2024), Fig. 11.](https://doi.org/10.1016/j.autcon.2024.105587){.image-credit}
 :::
 ::: {.theme-list}
-[01 · Mobile sensing & bridge monitoring](research/index.qmd#mobile-sensing)
-
-[02 · Intelligent damage diagnosis](research/index.qmd#intelligent-diagnostics)
-
-[03 · Vision & field monitoring](research/index.qmd#vision-field-monitoring)
-
-[04 · Structural identification & Bayesian methods](research/index.qmd#structural-identification)
-
-[05 · Materials informatics](research/index.qmd#materials-informatics)
+1. [[Mobile sensing & bridge monitoring]{.theme-name} [Vehicles, scooters, pedestrians, and robots as moving sensors for bridges.]{.theme-desc}](research/index.qmd#mobile-sensing)
+2. [[Intelligent damage diagnosis]{.theme-name} [Learning-based methods that link measured vibrations to structural damage.]{.theme-desc}](research/index.qmd#intelligent-diagnostics)
+3. [[Vision & field monitoring]{.theme-name} [Non-contact displacement measurement and monitoring in real conditions.]{.theme-desc}](research/index.qmd#vision-field-monitoring)
+4. [[Structural identification & Bayesian methods]{.theme-name} [Mechanical models combined with measurements and explicit uncertainty.]{.theme-desc}](research/index.qmd#structural-identification)
+5. [[Materials informatics]{.theme-name} [Explainable machine learning for engineering material properties.]{.theme-desc}](research/index.qmd#materials-informatics)
 :::
 :::
 :::
@@ -70,19 +66,25 @@ At DTU, my current work focuses on structural health monitoring, digital twins, 
 ::: {.reading-item}
 [A comprehensive review of indirect bridge health monitoring](publications/index.qmd#pub-mssp-review)
 
-Mechanical Systems and Signal Processing · 2026
+[**Z. Li**, W. Lin, C.-W. Kim, M. P. Limongelli, E. Chatzi]{.reading-authors}
+
+*Mechanical Systems and Signal Processing* · 2026
 :::
 
 ::: {.reading-item}
 [Pedestrian-sensed indirect footbridge frequency identification](publications/index.qmd#pub-jsv-zhenkun2026)
 
-Journal of Sound and Vibration · 2026
+[**Z. Li**, S. Ereiz, E. Ozer, A. Malekjafarian, M. P. Limongelli]{.reading-authors}
+
+*Journal of Sound and Vibration* · 2026
 :::
 
 ::: {.reading-item}
 [Footbridge damage detection using smartphone-recorded responses of micromobility and convolutional neural networks](publications/index.qmd#pub-aic-scooter)
 
-Automation in Construction · 2024
+[**Z. Li**, Y. Lan, W. Lin]{.reading-authors}
+
+*Automation in Construction* · 2024
 :::
 
 [All publications →](publications/index.qmd)

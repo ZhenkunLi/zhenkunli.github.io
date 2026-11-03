@@ -1,20 +1,26 @@
 /*-- scss:defaults --*/
-$body-bg: #fafaf7;
-$body-color: #283b40;
-$primary: #23665d;
-$link-color: #23665d;
-$navbar-bg: #fafaf7;
-$navbar-fg: #283b40;
-$navbar-hl: #23665d;
-$footer-bg: #f0f2ed;
+// Classic academic (light): warm paper, ink text, oxblood accent.
+$body-bg: #faf8f2;
+$body-color: #2e2a24;
+$primary: #8b2f22;
+$link-color: #8b2f22;
+$navbar-bg: #faf8f2;
+$navbar-fg: #2e2a24;
+$navbar-hl: #8b2f22;
+$footer-bg: #faf8f2;
+$footer-fg: #6d665a;
 $font-family-sans-serif: "Source Sans 3", "Segoe UI", Arial, sans-serif;
-$headings-font-family: "Source Serif 4", Georgia, serif;
+$font-family-base: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
 $headings-font-weight: 500;
-$font-size-root: 17px;
-$line-height-base: 1.7;
-$h1-font-size: 2.9rem;
-$h2-font-size: 1.9rem;
-$h3-font-size: 1.3rem;
-$code-bg: #edf1ed;
-$border-color: #dce3db;
-$toc-color: #5c6f70;
+$font-size-root: 18px;
+$line-height-base: 1.65;
+$h1-font-size: 2.8rem;
+$h2-font-size: 1.7rem;
+$h3-font-size: 1.25rem;
+$code-bg: #f2eee4;
+$border-color: #e2dccf;
+$toc-color: #8b2f22;
+
+// Fonts are served locally (assets/fonts.css); skip the Cosmo theme's Google Fonts import.
+$web-font-path: false;

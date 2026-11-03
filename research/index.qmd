@@ -11,12 +11,16 @@ My work connects structural mechanics with sensing and data analysis. The themes
 :::
 
 ::: {.theme-jump aria-label="Research themes"}
-[Mobile sensing](#mobile-sensing) · [Intelligent diagnosis](#intelligent-diagnostics) · [Vision & field monitoring](#vision-field-monitoring) · [Structural identification](#structural-identification) · [Materials informatics](#materials-informatics)
+1. [Mobile sensing & bridge monitoring](#mobile-sensing)
+2. [Intelligent damage diagnosis](#intelligent-diagnostics)
+3. [Vision & field monitoring](#vision-field-monitoring)
+4. [Structural identification & Bayesian methods](#structural-identification)
+5. [Materials informatics](#materials-informatics)
 :::
 
 :::: {.research-section #mobile-sensing}
 ::: {.research-copy}
-[01 · Sensing beyond the structure]{.eyebrow}
+[I · Sensing beyond the structure]{.eyebrow}
 
 ## Mobile sensing & bridge monitoring
 
@@ -50,7 +54,7 @@ This work studies frequency and mode-shape identification, contact-point respons
 
 :::: {.research-section #intelligent-diagnostics}
 ::: {.research-copy}
-[02 · From response to diagnosis]{.eyebrow}
+[II · From response to diagnosis]{.eyebrow}
 
 ## Intelligent damage diagnosis
 
@@ -84,7 +88,7 @@ Related work examines synthetic training data, model interpretability, and the v
 
 :::: {.research-section #vision-field-monitoring}
 ::: {.research-copy}
-[03 · Measuring in real conditions]{.eyebrow}
+[III · Measuring in real conditions]{.eyebrow}
 
 ## Vision & field monitoring {#vision-research}
 
@@ -118,7 +122,7 @@ I also study how environmental conditions influence monitoring data, including t
 
 :::: {.research-section #structural-identification}
 ::: {.research-copy}
-[04 · Mechanics and uncertainty]{.eyebrow}
+[IV · Mechanics and uncertainty]{.eyebrow}
 
 ## Structural identification & Bayesian methods
 
@@ -152,7 +156,7 @@ Related studies address bridge dynamics, cable interactions, influence-line iden
 
 :::: {.research-section #materials-informatics}
 ::: {.research-copy}
-[05 · Learning material behaviour]{.eyebrow}
+[V · Learning material behaviour]{.eyebrow}
 
 ## Materials informatics {#materials-research}
 
