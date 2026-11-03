@@ -6,17 +6,21 @@ toc: false
 page-layout: full
 ---
 
+:::: {.research-intro}
 ::: {.page-intro}
 My work connects structural mechanics with sensing and data analysis. The themes below bring together research on bridges, civil infrastructure, and engineering materials, from numerical models to laboratory and field measurements.
 :::
 
 ::: {.theme-jump aria-label="Research themes"}
+**Research themes**
+
 1. [Mobile sensing & bridge monitoring](#mobile-sensing)
 2. [Intelligent damage diagnosis](#intelligent-diagnostics)
 3. [Vision & field monitoring](#vision-field-monitoring)
 4. [Structural identification & Bayesian methods](#structural-identification)
 5. [Materials informatics](#materials-informatics)
 :::
+::::
 
 :::: {.research-section #mobile-sensing}
 ::: {.research-copy}
