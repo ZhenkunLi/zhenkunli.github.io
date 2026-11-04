@@ -505,7 +505,7 @@
   {
     "id": "materials-16-02624",
     "title": "A Time-Domain Signal Processing Algorithm for Data-Driven Drive-by Inspection Methods: An Experimental Study",
-    "authors": "Yifu Lan*, Zhenkun Li, Weiwei Lin",
+    "authors": "Yifu Lan, Zhenkun Li, Weiwei Lin*",
     "type": "Journal article",
     "date": "2023-03-26",
     "theme": "intelligent-diagnostics",
@@ -575,7 +575,7 @@
   {
     "id": "physics-informed-yifu",
     "title": "Physics-guided diagnosis framework for bridge health monitoring using raw vehicle accelerations",
-    "authors": "Yifu Lan*, Zhenkun Li, Weiwei Lin",
+    "authors": "Yifu Lan, Zhenkun Li, Weiwei Lin*",
     "type": "Journal article",
     "date": "2024-01-01",
     "theme": "intelligent-diagnostics",
@@ -607,7 +607,7 @@
     "type": "Journal article",
     "date": "2026-10-24",
     "theme": "intelligent-diagnostics",
-    "details": "<em>Structural Control and Health Monitoring</em>, 2026. Accepted.",
+    "details": "<em>Structural Control and Health Monitoring</em>, <b>2026</b>, 2167965.",
     "abstract": "Structural damage induced by material aging or long-term fatigue is a gradual process. The primary challenge in identifying such progressive damage lies in the fact that damage-induced changes in structural properties occur incrementally over time, with their effects simultaneously being manifested in both the temporal sequence and spatial distribution of vibration signals. These two aspects are intrinsically coupled and difficult to separate directly. To address this, this study proposes a two-stage diagnostic framework for time-varying structural damage. In the first stage of modal decomposition and tracking, a time–frequency ridge guidance mechanism is introduced to optimize the initial instantaneous frequency estimation for Adaptive Chirp Mode Decomposition (ACMD). This effectively mitigates the sensitivity to initial values, enabling robust decomposition of multiple intrinsic mode functions (IMFs) of the structure and their complete time-varying modal parameters. The second stage focuses on spatiotemporal localization: in the temporal domain, an Autoregressive Integrated Moving Average (ARIMA) model is established for each decoupled modal component. By leveraging the abrupt statistical changes in the statistical characteristics of the residual sequence, a Damage Index (DI) is constructed to sensitively capture the moment of damage occurrence. In the spatial domain, by integrating damage-sensitive time-varying frequency shifts and local mode shape distortions, a Damage Quantification (DQ) index along with its time-varying confidence boundary is developed, enabling accurate localization of the damage. The effectiveness of the proposed framework is validated through two numerical case studies including a time-varying stiffness multi-degree-of-freedom frame and a simply supported beam under moving loads, as well as an experimental test on a steel truss bridge subjected to ambient excitation. The results demonstrate that the framework not only identifies the precise timing of damage occurrence but also accurately localizes the damage position, providing a reliable solution for the sensing and preventive maintenance of time-varying structures.",
     "file": "A_Two‐Stage.pdf",
     "doi": "10.1155/stc/2167965",
