@@ -1,5 +1,5 @@
 ---
-pagetitle: Structural Health Monitoring & Intelligent Sensing
+pagetitle: Intelligent Monitoring of Infrastructures
 description: Postdoctoral Researcher at DTU working on structural health monitoring, intelligent sensing, digital twins, and wind turbine operations and maintenance.
 toc: false
 page-layout: full
@@ -7,7 +7,7 @@ page-layout: full
 
 ::: {.home-hero}
 ::: {.hero-copy}
-[Structural health monitoring · Intelligent sensing]{.eyebrow}
+[Intelligent Monitoring of Infrastructures]{.eyebrow}
 
 # Zhenkun Li
 

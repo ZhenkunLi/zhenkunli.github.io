@@ -62,7 +62,7 @@ website:
     location: navbar
     type: overlay
   page-footer:
-    left: "© 2026 Zhenkun Li · Structural health monitoring & intelligent sensing"
+    left: "© 2026 Zhenkun Li · Intelligent Monitoring of Infrastructures"
     right:
       - text: Contact
         href: mailto:zhelia@dtu.dk
